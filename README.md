@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabyasachi 
-- 👀 I’m interested in exploring the vast extent of Computer Science
-- 🌱 I’m currently learning basics of Programming in Python and C++
+- 👀 I’m interested in exploring the vast extent of Programming.
+- 🌱 I’m currently learning Programming in DART, Python.
 
 
 <!---
